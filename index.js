@@ -64,5 +64,6 @@ console.log("High Scores are as follow: ")
 for(var i=0; i<highScores.length; i++){
   console.log( highScores[i].name + ": " + highScores[i].highScore );
 }
+console.log("--------");
 
 
