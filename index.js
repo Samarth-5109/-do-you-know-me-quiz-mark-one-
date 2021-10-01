@@ -34,6 +34,16 @@ var userName = readlineSync.question("What is your name?");
    questionThree ={
      question : "Which 2 Wheeler I own?",
      answer : "Honda aviator"
+   },
+
+   questionFour = {
+     question : "From which university I am currently pursuing by Btech?",
+     answer : "GGSIPU"
+   },
+
+   questionFive = {
+     question : "Do I love cars?",
+     answer : "Yes"
    }
  ]
 
@@ -46,7 +56,7 @@ var userName = readlineSync.question("What is your name?");
 
    score2 = {
      name : "Sarthak",
-     highScore: "2"
+     highScore: "4"
    }
  ];
 
